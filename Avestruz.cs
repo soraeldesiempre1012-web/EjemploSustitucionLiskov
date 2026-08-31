@@ -13,3 +13,5 @@ namespace EjemploSustitucionLiskov
         }
     }
 }
+
+// Este es un comentario.

@@ -41,3 +41,5 @@ miAvestruz.correr();
 
 Console.WriteLine("\nEl uso de la sustitución de Liskov nos permite hacer que cualquier instancia de Ave pueda reemplazar " +
     "\n" + "a un objeto Ave en todas sus funciones, además de añadirle métodos únicos a cada una.");
+
+// Este es un comentario.
